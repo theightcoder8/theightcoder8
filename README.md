@@ -23,7 +23,6 @@
 
 + 2019-05-07  ·  Anfield  ·  aggregate 3-0 down  ·  no Salah, no Firmino
 + 4-0.
-+ corner taken quickly. seven years later I am still not normal about it.
 ```
 
 <div align="center">
