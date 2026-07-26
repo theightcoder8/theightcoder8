@@ -2,7 +2,7 @@
 
 # 8
 
-**central midfield · deep-lying · never in the highlight reel**
+**⚽ central midfield · deep-lying · never in the highlight reel**
 
 </div>
 
@@ -12,6 +12,12 @@
 + METHOD     look at the data. say what it says. annoy people.
 ```
 
+<div align="center">
+
+### 📼 best night ever
+
+</div>
+
 ```diff
 + $ cat best_night_ever.log
 
@@ -20,17 +26,25 @@
 + corner taken quickly. seven years later I am still not normal about it.
 ```
 
+<div align="center">
+
+### ⚠️ warnings
+
+</div>
+
 ```diff
-! WARNING  opinions about data are strongly held and poorly documented
-! WARNING  public repo count: 62. repos worth opening: 4. the ratio is the point.
-! WARNING  will argue about xG at 2am in four languages, badly in one of them
+! opinions about data are strongly held and poorly documented
+! public repo count: 62. repos worth opening: 4. the ratio is the point.
+! will argue about xG at 2am in four languages, badly in one of them
 ```
 
 <div align="center">
 
-**stack** · `Python` · `SQL` · `statsmodels` · `Tableau` · `too many browser tabs`
+🐍 `Python` · 🗄️ `SQL` · 📉 `statsmodels` · 📊 `Tableau` · 🗂️ `too many browser tabs`
 
-**soundtrack** · [what is actually playing](https://open.spotify.com/playlist/3PeKwq79Vql12IULZ0RKzr)
+🎧 [what is actually playing](https://open.spotify.com/playlist/3PeKwq79Vql12IULZ0RKzr)
+
+🌍 Baku → İstanbul → Paris · 🗣️ AZ · TR · EN · FR (⏳ loading)
 
 </div>
 
@@ -44,5 +58,5 @@
 </div>
 
 ```diff
-+ that's it. you've seen enough. go and do something with your day.
++ that's it. you've seen enough. go and do something with your day. 👋
 ```
