@@ -37,9 +37,9 @@
 
 ### ⟨ C̷O̷N̷N̷E̷C̷T̷ ⟩
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d1117)](https://linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d1117)](https://linkedin.com/in/linkedin.com/in/farid-i-011a01173)
 [![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=0d1117)](https://x.com/theightcoder)
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00FF41&labelColor=0d1117)](https://discord.com/users/YOUR-ID)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00FF41&labelColor=0d1117)](https://discord.com/users/theightcoder)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0d1117)](mailto:iskandarovfarid8@gmail.com)
 
 </div>
