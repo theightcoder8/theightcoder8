@@ -13,16 +13,6 @@
 ```
 
 ```diff
-+ $ traceroute farid
-
-+ 1   Baku        2001 - 2017    installed: Azerbaijani
-+ 2   Istanbul    2017 - 2025    installed: Turkish, English
-+ 3   Paris       2025 - now     compiling: French ... 4% ... do not interrupt
-
-+ 3 hops. no packet loss. some latency.
-```
-
-```diff
 + $ cat best_night_ever.log
 
 + 2019-05-07  ·  Anfield  ·  aggregate 3-0 down  ·  no Salah, no Firmino
