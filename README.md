@@ -44,8 +44,6 @@
 
 🎧 [what is actually playing](https://open.spotify.com/playlist/3PeKwq79Vql12IULZ0RKzr)
 
-🌍 Baku → İstanbul → Paris · 🗣️ AZ · TR · EN · FR (⏳ loading)
-
 </div>
 
 <div align="center">
