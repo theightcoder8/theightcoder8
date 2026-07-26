@@ -1,50 +1,58 @@
 <div align="center">
 
-# F̸A̸R̸I̸D̸ ̸I̸S̸K̸A̸N̸D̸A̸R̸O̸V̸
+# 8
+
+**central midfield · deep-lying · never in the highlight reel**
 
 </div>
 
 ```diff
-+ ╔══════════════════════════════════════════════════════════════╗
-+ ║  01000110 01000001 01010010 01001001 01000100                ║
-+ ║                                                              ║
-+ ║   █▀▀ █▀█ █░░ █░░ █▀█ █░█░█   ▀█▀ █░█ █▀▀   █▀▄ ▄▀█ ▀█▀ ▄▀█  ║
-+ ║   █▀░ █▄█ █▄▄ █▄▄ █▄█ ▀▄▀▄▀   ░█░ █▀█ ██▄   █▄▀ █▀█ ░█░ █▀█  ║
-+ ║                                                              ║
-+ ╚══════════════════════════════════════════════════════════════╝
++ POSITION   the 8. receives on the half-turn, moves the ball, gets no credit.
++ REFERENCE  Kroos for the composure. Gerrard for the total absence of it.
++ METHOD     look at the data. say what it says. annoy people.
 ```
 
 ```diff
-+ > whoami
-- data has no loyalty. it says what it says.
-+ > status
-+ [OK] awake       [OK] curious       [ERR] sleep_schedule
-+ > uptime
++ $ traceroute farid
+
++ 1   Baku        2001 - 2017    installed: Azerbaijani
++ 2   Istanbul    2017 - 2025    installed: Turkish, English
++ 3   Paris       2025 - now     compiling: French ... 4% ... do not interrupt
+
++ 3 hops. no packet loss. some latency.
+```
+
+```diff
++ $ cat best_night_ever.log
+
++ 2019-05-07  ·  Anfield  ·  aggregate 3-0 down  ·  no Salah, no Firmino
++ 4-0.
++ corner taken quickly. seven years later I am still not normal about it.
+```
+
+```diff
+! WARNING  opinions about data are strongly held and poorly documented
+! WARNING  public repo count: 62. repos worth opening: 4. the ratio is the point.
+! WARNING  will argue about xG at 2am in four languages, badly in one of them
 ```
 
 <div align="center">
 
-`Ｐ Ｙ Ｔ Ｈ Ｏ Ｎ` ▓ `Ｓ Ｑ Ｌ` ▓ `Ｓ Ｔ Ａ Ｔ Ｓ` ▓ `Ｖ Ｉ Ｚ`
+**stack** · `Python` · `SQL` · `statsmodels` · `Tableau` · `too many browser tabs`
+
+**soundtrack** · [what is actually playing](https://open.spotify.com/playlist/3PeKwq79Vql12IULZ0RKzr)
 
 </div>
 
-```diff
-! ░▒▓█ SYSTEM NOISE █▓▒░
-! 01001110 01001111 00100000 01010011 01001100 01000101 01000101 01010000
-```
-
 <div align="center">
 
-### ⟨ C̷O̷N̷N̷E̷C̷T̷ ⟩
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d1117)](https://linkedin.com/in/linkedin.com/in/farid-i-011a01173)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&labelColor=0d1117)](https://www.linkedin.com/in/farid-i-011a01173/)
 [![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=0d1117)](https://x.com/theightcoder)
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00FF41&labelColor=0d1117)](https://discord.com/users/theightcoder)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00FF41&labelColor=0d1117)](https://discord.com/users/YOUR-ID)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0d1117)](mailto:iskandarovfarid8@gmail.com)
 
 </div>
 
 ```diff
-+ > exit
-+ connection closed.
++ that's it. you've seen enough. go and do something with your day.
 ```
