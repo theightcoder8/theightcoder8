@@ -20,7 +20,6 @@
 + > status
 + [OK] awake       [OK] curious       [ERR] sleep_schedule
 + > uptime
-+ still learning · still building · still growing
 ```
 
 <div align="center">
