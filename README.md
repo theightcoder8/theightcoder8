@@ -1,49 +1,51 @@
-<p align="center">
-  <img src="banner.png" alt="Shot map, 2019 Champions League final" width="100%">
-</p>
+<div align="center">
 
-<p align="center">
-  <code>econometrics → football data</code>
-</p>
+# F̸A̸R̸I̸D̸ ̸I̸S̸K̸A̸N̸D̸A̸R̸O̸V̸
 
----
+</div>
 
-I model what happens on a pitch.
+```diff
++ ╔══════════════════════════════════════════════════════════════╗
++ ║  01000110 01000001 01010010 01001001 01000100                ║
++ ║                                                              ║
++ ║   █▀▀ █▀█ █░░ █░░ █▀█ █░█░█   ▀█▀ █░█ █▀▀   █▀▄ ▄▀█ ▀█▀ ▄▀█  ║
++ ║   █▀░ █▄█ █▄▄ █▄▄ █▄█ ▀▄▀▄▀   ░█░ █▀█ ██▄   █▄▀ █▀█ ░█░ █▀█  ║
++ ║                                                              ║
++ ╚══════════════════════════════════════════════════════════════╝
+```
 
-Econometrics graduate (Istanbul University, 2025), now doing a master's in Physical Activity and Exercise for Health at Université Paris-Saclay. The degree is physiology; the work is data. I use both.
+```diff
++ > whoami
+- data has no loyalty. it says what it says.
++ > status
++ [OK] awake       [OK] curious       [ERR] sleep_schedule
++ > uptime
++ still learning · still building · still growing
+```
 
-Most of what I publish here is me testing whether a question I had about a match, a league, or a city can survive contact with real data. Some of it can.
+<div align="center">
 
-**Working with:** Python (pandas, statsmodels, matplotlib, mplsoccer) · SQL (PostgreSQL) · Tableau · StatsBomb and FBref data
+`Ｐ Ｙ Ｔ Ｈ Ｏ Ｎ` ▓ `Ｓ Ｑ Ｌ` ▓ `Ｓ Ｔ Ａ Ｔ Ｓ` ▓ `Ｖ Ｉ Ｚ`
 
-**Learning:** machine learning applied to tracking data, and French, in that order of difficulty.
+</div>
 
----
+```diff
+! ░▒▓█ SYSTEM NOISE █▓▒░
+! 01001110 01001111 00100000 01010011 01001100 01000101 01000101 01010000
+```
 
-### Selected work
+<div align="center">
 
-| | |
-|---|---|
-| **[paris-apartment-prices](https://github.com/theightcoder8/paris-apartment-prices)** | Does location drive Paris apartment prices, or just size? OLS on 147k DVF transactions. Location wins. |
-| **[ucl_final_2019_liverpool_spurs_analysis](https://github.com/theightcoder8/ucl_final_2019_liverpool_spurs_analysis)** | Event data breakdown of a final I watched too emotionally to judge. Shot maps, pass networks, xG. |
-| **[waze-churn-analysis](https://github.com/theightcoder8/waze-churn-analysis)** | User churn: cleaning, exploration, and the chart that made the pattern obvious. |
-| **[csv-insight-assistant](https://github.com/theightcoder8/csv-insight-assistant)** | A cleaning tool I built because I kept doing the same thing by hand. |
+### ⟨ C̷O̷N̷N̷E̷C̷T̷ ⟩
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d1117)](https://linkedin.com/in/YOUR-HANDLE)
+[![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=0d1117)](https://x.com/theightcoder)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00FF41&labelColor=0d1117)](https://discord.com/users/YOUR-ID)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0d1117)](mailto:iskandarovfarid8@gmail.com)
 
-### Currently
+</div>
 
-Building an xG model from scratch rather than importing one, so I understand what the number is actually claiming.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theightcoder8&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=3fb950&text_color=8b8b8b&icon_color=3fb950" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theightcoder8&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=3fb950&text_color=8b8b8b" height="150">
-</p>
-
-<p align="center">
-  <a href="mailto:iskandarovfarid8@gmail.com">email</a> ·
-  <a href="https://x.com/theightcoder">x</a> ·
-  <a href="https://linkedin.com/">linkedin</a>
-</p>
+```diff
++ > exit
++ connection closed.
+```
