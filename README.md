@@ -53,7 +53,3 @@
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0d1117)](mailto:iskandarovfarid8@gmail.com)
 
 </div>
-
-```diff
-+ that's it. you've seen enough. go and do something with your day. 👋
-```
