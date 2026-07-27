@@ -33,7 +33,6 @@
 
 ```diff
 ! opinions about data are strongly held and poorly documented
-! public repo count: 62. repos worth opening: 4. the ratio is the point.
 ! will argue about xG at 2am in four languages, badly in one of them
 ```
 
