@@ -14,17 +14,6 @@
 
 <div align="center">
 
-### 📼 best night ever
-
-</div>
-
-```diff
-+ $ cat best_night_ever.log
-
-+ 2019-05-07  ·  Anfield  ·  aggregate 3-0 down  ·  no Salah, no Firmino
-+ 4-0.
-```
-
 <div align="center">
 
 ### ⚠️ warnings
