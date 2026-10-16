@@ -1,43 +1,58 @@
+
 <div align="center">
 
-# 8
+# 🔴 DARTH VADER
 
-**⚽ central midfield · deep-lying · never in the highlight reel**
+### `DARK LORD OF THE SITH`
+
+<img src="assets/darth-vader-hallway.jpg" width="100%" alt="Darth Vader with a red lightsaber"/>
 
 </div>
 
-```diff
-+ POSITION   the 8. receives on the half-turn, moves the ball, gets no credit.
-+ REFERENCE  Kroos for the composure. Gerrard for the total absence of it.
-+ METHOD     look at the data. say what it says. annoy people.
+---
+
+```text
+                    IMPERIAL DATABASE
+        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+        USER       : Darth Vader
+        REAL NAME  : Anakin Skywalker
+        AFFILIATION: Galactic Empire
+        RANK       : Dark Lord of the Sith
+        STATUS     : ONLINE
+
+        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+        FORCE POWER  : ██████████  MAX
+        LIGHTSABER   : ██████████  ACTIVE
+        AUTHORITY    : ██████████  MAX
+        MERCY        : ░░░░░░░░░░  0%
+```
+
+### `SYSTEM COLORS`
+
+| COLOR | HEX | FUNCTION |
+|:--|:--|:--|
+| 🔴 Sith Red | `#FF1A1A` | Lightsaber glow |
+| 🟥 Imperial Crimson | `#8B0000` | Background atmosphere |
+| 🟢 Control Green | `#00FF66` | Imperial indicators |
+| ⬛ Armor Black | `#111318` | Dark interface |
+| ⬜ Hologram White | `#E6E6E6` | Text and saber core |
+
+### `IMPERIAL DIRECTIVE`
+
+> "You don't know the power of the dark side."
+
+```text
+[ IMPERIAL STATUS ] ........ OPERATIONAL
+[ REBEL ACTIVITY  ] ........ DETECTED
+[ PRIMARY OBJECTIVE ] ...... RESTORE ORDER
 ```
 
 <div align="center">
 
-<div align="center">
+### `THE EMPIRE WILL PREVAIL`
 
-### ⚠️ warnings
-
-</div>
-
-```diff
-! opinions about data are strongly held and poorly documented
-! will argue about xG at 2am in four languages, badly in one of them
-```
-
-<div align="center">
-
-🐍 `Python` · 🗄️ `SQL` · 📉 `statsmodels` · 📊 `Tableau` · 🗂️ `too many browser tabs`
-
-🎧 [what is actually playing](https://open.spotify.com/playlist/3PeKwq79Vql12IULZ0RKzr)
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&labelColor=0d1117)](https://www.linkedin.com/in/farid-i-011a01173/)
-[![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=0d1117)](https://x.com/theightcoder)
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00FF41&labelColor=0d1117)](https://discord.com/users/YOUR-ID)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0d1117)](mailto:iskandarovfarid8@gmail.com)
+`DARK SIDE // IMPERIAL SYSTEMS // GALACTIC EMPIRE`
 
 </div>
